@@ -156,7 +156,7 @@ export default function page() {
               <button className="bg-[#3563e9] p-2 text-white rounded-md">Rent Now</button>
             </CardFooter>
           </Card>
-
+ 
           
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
